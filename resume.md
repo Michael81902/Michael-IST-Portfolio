@@ -9,3 +9,6 @@
 ## Hobbys
  -Basketball
  -Video Games
+ 
+ ## Typing
+ -Learned J,F U,R,K
