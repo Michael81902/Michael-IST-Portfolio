@@ -12,4 +12,4 @@
  
  ## Typing
  -Learned J,F U,R,K
--48 WPM
+ -48 WPM
