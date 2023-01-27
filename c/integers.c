@@ -24,6 +24,6 @@ int main(
 		x = 25/ 4;
 	      printf("%i\n", x);i
 	
-		return 0;
+		return 0 ;
 		:
 
